@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "linter": "QDJVMC",
+  "attributes": {
+    "deviceId": "200820300000000-2d65-a542-40bc-3d0f14773c21",
+    "jobUrl": "",
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/azizabah/kotlin-asyncapi",
+        "revisionId": "123efadc092bc093367e37920be555c7937a8f2e",
+        "branch": "master"
+      }
+    },
+    "repoUrl": "https://github.com/azizabah/kotlin-asyncapi"
+  },
+  "linterVersion": "243.23410"
+}
